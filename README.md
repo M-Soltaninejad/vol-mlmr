@@ -18,3 +18,4 @@ To do segmentation:
 
 th testmodelfull_multiLoss.lua
 
+More info to appear soon.
